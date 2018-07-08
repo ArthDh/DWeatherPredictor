@@ -1,4 +1,4 @@
-# WeatherPred-LSTM
+# DWeatherPredictor
 
 * [x] Clean dataset
 * [x] Develop suitable GRU model
